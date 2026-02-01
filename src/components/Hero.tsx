@@ -47,8 +47,8 @@ export default function Hero() {
             }`}
             style={{ transitionTimingFunction: "cubic-bezier(0.4, 0, 0.2, 1)", letterSpacing: "-0.02em" }}
           >
-            <span className="block text-white">Hello World.</span>
-            <span className="block gradient-text">Stefan.</span>
+            <span className="block text-white">Diamond Finish.</span>
+            <span className="block gradient-text">Hardened Performance.</span>
           </h1>
 
           {/* Subheadline */}
