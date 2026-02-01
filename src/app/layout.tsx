@@ -17,7 +17,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Kong Crete LLC | Diamond Finish Polished Concrete",
+  title: "Hello World | Kong Crete LLC | Diamond Finish Polished Concrete",
   description: "Professional concrete polishing, resurfacing, and restoration services in Minnesota. Diamond finish, hardened performance.",
   keywords: "polished concrete, concrete polishing, concrete restoration, Minnesota, Twin Cities, Eden Prairie",
 };
